@@ -41,3 +41,5 @@ gem 'bootstrap'
 gem 'bcrypt', '~> 3.1.7'
 
 gem 'rails_autolink'
+
+gem 'ransack'
