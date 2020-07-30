@@ -9,6 +9,7 @@
 
 ### 開発環境
 
+- macOS Catalina 10.15.5
 - ruby 2.6.6
 - rails 6.0.3.1
 - PostgreSQL
