@@ -1,7 +1,7 @@
-# README
+# 書籍「現場で使える Ruby on Rails 5 速修実践ガイド」の勉強用
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+書籍「現場で使える Ruby on Rails 5 速修実践ガイド」の勉強用で作成しました。
+「taskleaf」という架空のtodoアプリを作成しております。
 
 Things you may want to cover:
 
