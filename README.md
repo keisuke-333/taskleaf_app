@@ -13,3 +13,4 @@
 - ruby 2.6.6
 - rails 6.0.3.1
 - PostgreSQL
+- テンプレートエンジン:slim
