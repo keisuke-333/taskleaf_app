@@ -2,23 +2,11 @@
 
 書籍「現場で使える Ruby on Rails 5 速修実践ガイド」の勉強用で作成しました。
 「taskleaf」という架空のtodoアプリを作成しております。
+基本的に書籍の課題に沿って作成をしました。
+書籍内でのRailsのバージョンは[5.2]ですが、[6.0.3.1]で作成しました。
 
-Things you may want to cover:
+### 開発環境
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- ruby 2.6.6
+- rails 6.0.3.1
+- PostgreSQL
